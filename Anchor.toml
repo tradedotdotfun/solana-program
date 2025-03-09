@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-trade_fun = "GVh92ct6ouJXFjxx7rvPXGidjWhKJVtnBjTkywhpCuA"
+trade_fun = "CoFf4ZpbTJRoPxdJ64JvMn4pVR1wjhvARc8ed91i9i37"
 
 [registry]
 url = "https://api.apr.dev"

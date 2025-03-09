@@ -16,8 +16,6 @@ async function main() {
         program.programId
     );
 
-    // Define the deposit amount in lamports (1 SOL = 1_000_000_000 lamports)
-    const depositAmount = new anchor.BN(1_000_000_000); // 1 SOL
 
     try {
         // Send transaction to deposit SOL
